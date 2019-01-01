@@ -14,7 +14,7 @@
     - geerlingguy.java
     - apolloclark.zookeeper
     - apolloclark.kafka
-    - apolloclark.elasticsearch
+    - PeeterXXL.elasticsearch
     - apolloclark.logstash
     - apolloclark.kibana
     - apolloclark.auditbeat
