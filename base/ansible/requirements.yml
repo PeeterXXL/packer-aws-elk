@@ -7,6 +7,7 @@
 - src: apolloclark.zookeeper          # https://github.com/apolloclark/ansible-role-zookeeper
 - src: apolloclark.kafka              # https://github.com/apolloclark/ansible-role-kafka
 - src: https://github.com/PeeterXXL/ansible-role-elasticsearch
+  name: PeeterXXL.elasticsearch
 - src: apolloclark.logstash           # https://github.com/apolloclark/ansible-role-logstash
 - src: apolloclark.kibana             # https://github.com/apolloclark/ansible-role-kibana
 - src: apolloclark.metricbeat         # https://github.com/apolloclark/ansible-role-metricbeat
